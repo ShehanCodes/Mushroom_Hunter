@@ -118,7 +118,7 @@ class Bubble {
 }
 
 const bubblePop1 = document.createElement('audio');
-bubblePop1.src = 'Plog.ogg';
+bubblePop1.src = 'Plop.ogg';
 const bubblePop2 = document.createElement('audio');
 bubblePop1.src = 'bubbles1.wav';
 
