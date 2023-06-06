@@ -120,7 +120,7 @@ class Bubble {
 const bubblePop1 = document.createElement('audio');
 bubblePop1.src = 'Plop.ogg';
 const bubblePop2 = document.createElement('audio');
-bubblePop1.src = 'bubbles1.wav';
+bubblePop2.src = 'bubbles-single2.wav';
 
 function handleBubbles() {
     if (gameFrame % 50 == 0){
